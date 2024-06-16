@@ -1,6 +1,3 @@
-alpine
-xhofe/alist
-xiaoyaliu/alist
 1panel
 sun-panel
 xunlei
