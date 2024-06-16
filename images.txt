@@ -1,3 +1,4 @@
 1panel
 sun-panel
 xunlei
+alist-tvbox
