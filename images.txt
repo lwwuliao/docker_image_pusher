@@ -1,2 +1,3 @@
-1panel/openresty
+hslr/sun-panel
+
 
